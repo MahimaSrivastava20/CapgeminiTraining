@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 namespace LibrarySystem
 {
-    // ===== ENUMS =====
     public enum UserRole
     {
         Admin,
@@ -19,7 +18,6 @@ namespace LibrarySystem
         Lost
     }
 
-    // ===== ABSTRACT CLASS =====
     public abstract class LibraryItem
     {
         public string Title { get; set; }
@@ -30,11 +28,11 @@ namespace LibrarySystem
         public abstract double CalculateLateFee(int days);
     }
 
-    // ===== PARTIAL + STATIC CLASS =====
     public partial class LibraryAnalytics
     {
         public static int TotalBorrowedItems { get; set; }
     }
+
     public partial class LibraryAnalytics
     {
         public static void DisplayAnalytics()
@@ -43,17 +41,16 @@ namespace LibrarySystem
         }
     }
 
-    // ===== INTERFACES =====
     public interface IReservable
     {
         void Reserve();
     }
+
     public interface INotifiable
     {
-        void SendNortification(string message);
+        void SendNotification(string message);
     }
 
-    // ===== NESTED NAMESPACE =====
     namespace Items
     {
         public class Book : LibraryItem, IReservable, INotifiable

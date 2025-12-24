@@ -7,7 +7,6 @@ class Program
 {
     static void Main()
     {
-        // TASK 1
         ItemAlias.Book book = new ItemAlias.Book
         {
             Title = "C# Fundamentals",
@@ -28,14 +27,12 @@ class Program
         magazine.DisplayItemDetails();
         Console.WriteLine("Late Fee for 3 days: " + magazine.CalculateLateFee(3));
 
-        // TASK 2 + TASK 4
         IReservable r = book;
         INotifiable n = book;
 
         r.Reserve();
         n.SendNotification("Your reserved book is ready for pickup.");
 
-        // TASK 3
         List<LibraryItem> items = new List<LibraryItem>();
         items.Add(book);
         items.Add(magazine);
@@ -45,11 +42,9 @@ class Program
             item.DisplayItemDetails();
         }
 
-        // TASK 6
         LibraryAnalytics.TotalBorrowedItems = 5;
         LibraryAnalytics.DisplayAnalytics();
 
-        // TASK 7
         LibrarySystem.Users.Member user = new LibrarySystem.Users.Member
         {
             Role = UserRole.Member
