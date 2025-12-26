@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\bin\Debug\net10.0\Day6SmartTradeSystem.exe
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\bin\Debug\net10.0\Day6SmartTradeSystem.deps.json
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\bin\Debug\net10.0\Day6SmartTradeSystem.runtimeconfig.json
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\bin\Debug\net10.0\Day6SmartTradeSystem.dll
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\bin\Debug\net10.0\Day6SmartTradeSystem.pdb
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\Day6SmartTradeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\Day6SmartTradeSystem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\Day6SmartTradeSystem.AssemblyInfo.cs
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\Day6SmartTradeSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\Day6SmartTradeSystem.sourcelink.json
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\Day6SmartTradeSystem.dll
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\refint\Day6SmartTradeSystem.dll
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\Day6SmartTradeSystem.pdb
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\Day6SmartTradeSystem.genruntimeconfig.cache
+C:\Users\hp\Desktop\lpu.net\Day6SmartTradeSystem\obj\Debug\net10.0\ref\Day6SmartTradeSystem.dll
