@@ -1,0 +1,4 @@
+29-12-2025 14:22:14 | DivideByZeroException | Attempted to divide by zero.
+29-12-2025 14:22:37 | FormatException | The input string '100abcd' was not in a correct format.
+29-12-2025 14:22:55 | DivideByZeroException | Attempted to divide by zero.
+29-12-2025 14:23:19 | InsufficientBalanceException | Insufficient balance for withdrawal!!

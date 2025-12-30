@@ -1,11 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
 class Program
 {
     public static void Main()
     {
         // Console.WriteLine("Welcome TO Day 8!");
-        Console.WriteLine("Welcome TO Quick Mart Traders Application!");
+        Console.WriteLine("Quick Mart Traders Application--");
         int choice = 0;
 
         while (choice != 4)
@@ -101,7 +101,7 @@ class Program
                     }
             }
         }
-        Console.WriteLine("-------- Thanks For Using QuickMart Application. ---------");
+        Console.WriteLine("-------- Thanks for you visit... Please Visit again..");
 
 
     }

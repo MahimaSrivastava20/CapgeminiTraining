@@ -6,7 +6,7 @@ class SaleTransaction
     public int Quantity {get; set;}
     public decimal PurchaseAmount {get; set;}
     public decimal SellingAmount {get; set;}
-    public string ProfitOrLossStatus;  // PROFIT / LOSS / BREAK-EVEN 
+    public string ProfitOrLossStatus;  
     public decimal ProfitOrLossAmount;
     public decimal ProfitMarginPercent;
     public static SaleTransaction LastTransaction;

@@ -1,5 +1,4 @@
 using System;
-
 public class BillingService
 {
     public static PatientBill LastBill;
@@ -11,18 +10,24 @@ public class BillingService
 
         Console.Write("Enter Bill Id: ");
         bill.BillId = Console.ReadLine();
-        if (string.IsNullOrWhiteSpace(bill.BillId))
+        if (string.IsNullOrEmpty(bill.BillId))
         {
             Console.WriteLine("Bill Id cannot be empty.");
             return;
         }
-
+p
         Console.Write("Enter Patient Name: ");
         bill.PatientName = Console.ReadLine();
 
         Console.Write("Is the patient insured? (Y/N): ");
-        string insuranceInput = Console.ReadLine();
-        bill.HasInsurance = insuranceInput.Equals("Y", StringComparison.OrdinalIgnoreCase);
+        char ch=Convert.ToChar(Console.ReadLine());
+        ch=Char.ToLower(ch);
+        bool hasInsurance=ch=='y'?true:false;
+
+        // Console.Write("Is the patient insured? (Y/N): ");
+        // string insuranceInput = Console.ReadLine();
+        // bill.HasInsurance = insuranceInput.Equals("Y", StringComparison.OrdinalIgnoreCase);
+
 
         Console.Write("Enter Consultation Fee: ");
         bill.ConsultationFee = Convert.ToDecimal(Console.ReadLine());

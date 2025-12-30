@@ -15,6 +15,7 @@ class Program
 
         for (int i = 0; i < n; i++)
         {
+            Console.WriteLine("Enter product prices: ");
             int num = int.Parse(Console.ReadLine() ?? "0");
             if (num >= 0)
                 arr[i] = num;
@@ -56,6 +57,7 @@ class Program
         Console.WriteLine();
 
         // TASK 2 – BRANCH SALES ANALYSIS (2D ARRAY)
+        Console.WriteLine("Task two----");
         Console.Write("Enter No. of Branches: ");
         int b = int.Parse(Console.ReadLine() ?? "0");
 
@@ -84,7 +86,8 @@ class Program
         }
         Console.WriteLine("Global Highest Sale: " + highestSale);
 
-        // TASK 3 – JAGGED ARRAY
+        // TASK 3 – JAGGED ARRAY]
+        Console.WriteLine("Task 3");
         int[][] jaggedArray = new int[b][];
 
         for (int i = 0; i < b; i++)
@@ -107,6 +110,7 @@ class Program
         }
 
         // TASK 4 – LIST & HASHSET (NO LINQ)
+        Console.WriteLine("Task four--");
         Console.Write("Enter No. of Customer Transactions: ");
         int transactionNo = int.Parse(Console.ReadLine() ?? "0");
 
@@ -135,6 +139,7 @@ class Program
         Console.WriteLine("Duplicates Removed: " + (list.Count - cleanedList.Count));
 
         // TASK 5 – DICTIONARY & SORTEDLIST
+        Console.WriteLine("Task five");
         Console.Write("Enter No. of Transactions: ");
         int noOfTransaction;
         while (!int.TryParse(Console.ReadLine(), out noOfTransaction) || noOfTransaction <= 0)
@@ -165,6 +170,7 @@ class Program
             Console.WriteLine(item.Key + " -> " + item.Value);
 
         // TASK 6 – STACK & QUEUE
+        Console.WriteLine("Task six");
         Console.Write("Enter No. of Operations: ");
         int noOfOperation;
         while (!int.TryParse(Console.ReadLine(), out noOfOperation) || noOfOperation <= 0)
@@ -189,6 +195,7 @@ class Program
             Console.WriteLine(stack.Pop());
 
         // TASK 7 – HASHTABLE & ARRAYLIST
+        Console.WriteLine("Task seven----");
         Console.Write("Enter No. of Users: ");
         int noOfUser;
         while (!int.TryParse(Console.ReadLine(), out noOfUser) || noOfUser <= 0)
