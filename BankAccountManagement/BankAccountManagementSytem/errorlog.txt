@@ -1,0 +1,5 @@
+DateTime: 30-12-2025 10:46:46
+Account Number: ACC1001
+Exception: BankingSystem.InsufficientBalanceException: Insufficient balance for withdrawal
+   at BankingSystem.BankAccount.Withdraw(Decimal amount) in C:\Users\hp\Desktop\lpu.net\BankAccountManagement\BankAccountManagementSytem\BankAccount.cs:line 31
+-----------------------------------
