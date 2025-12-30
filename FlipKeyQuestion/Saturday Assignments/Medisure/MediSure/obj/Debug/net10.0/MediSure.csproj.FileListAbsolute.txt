@@ -1,0 +1,29 @@
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\MediSure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\MediSure.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\MediSure.AssemblyInfo.cs
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\MediSure.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\MediSure.sourcelink.json
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\bin\Debug\net10.0\MediSure.exe
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\bin\Debug\net10.0\MediSure.deps.json
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\bin\Debug\net10.0\MediSure.runtimeconfig.json
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\bin\Debug\net10.0\MediSure.dll
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\bin\Debug\net10.0\MediSure.pdb
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\MediSure.dll
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\refint\MediSure.dll
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\MediSure.pdb
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\MediSure.genruntimeconfig.cache
+C:\Users\hp\Desktop\lpu.net\Medisure\MediSure\obj\Debug\net10.0\ref\MediSure.dll
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\obj\Debug\net10.0\MediSure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\obj\Debug\net10.0\MediSure.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\obj\Debug\net10.0\MediSure.AssemblyInfo.cs
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\obj\Debug\net10.0\MediSure.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\obj\Debug\net10.0\MediSure.dll
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\obj\Debug\net10.0\refint\MediSure.dll
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\obj\Debug\net10.0\MediSure.pdb
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\bin\Debug\net10.0\MediSure.exe
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\bin\Debug\net10.0\MediSure.deps.json
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\bin\Debug\net10.0\MediSure.runtimeconfig.json
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\bin\Debug\net10.0\MediSure.dll
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\bin\Debug\net10.0\MediSure.pdb
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\obj\Debug\net10.0\MediSure.genruntimeconfig.cache
+C:\Users\hp\Desktop\Saturday Assignments\Medisure\MediSure\obj\Debug\net10.0\ref\MediSure.dll
