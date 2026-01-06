@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\Day12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\Day12.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\Day12.AssemblyInfo.cs
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\Day12.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\Day12.sourcelink.json
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\bin\Debug\net10.0\Day12.exe
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\bin\Debug\net10.0\Day12.deps.json
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\bin\Debug\net10.0\Day12.runtimeconfig.json
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\bin\Debug\net10.0\Day12.dll
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\bin\Debug\net10.0\Day12.pdb
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\Day12.dll
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\refint\Day12.dll
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\Day12.pdb
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\Day12.genruntimeconfig.cache
+C:\Users\hp\Desktop\lpu.net\Day12\Day12\obj\Debug\net10.0\ref\Day12.dll
