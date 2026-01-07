@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\LogParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\LogParsing.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\LogParsing.AssemblyInfo.cs
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\LogParsing.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\LogParsing.sourcelink.json
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\bin\Debug\net10.0\LogParsing.exe
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\bin\Debug\net10.0\LogParsing.deps.json
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\bin\Debug\net10.0\LogParsing.runtimeconfig.json
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\bin\Debug\net10.0\LogParsing.dll
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\bin\Debug\net10.0\LogParsing.pdb
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\LogParsing.dll
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\refint\LogParsing.dll
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\LogParsing.pdb
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\LogParsing.genruntimeconfig.cache
+C:\Users\hp\Desktop\lpu.net\Day10\LogParsing\LogParsing\obj\Debug\net10.0\ref\LogParsing.dll
