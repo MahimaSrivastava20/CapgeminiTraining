@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\bin\Debug\net10.0\TechWorldHardware.exe
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\bin\Debug\net10.0\TechWorldHardware.deps.json
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\bin\Debug\net10.0\TechWorldHardware.runtimeconfig.json
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\bin\Debug\net10.0\TechWorldHardware.dll
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\bin\Debug\net10.0\TechWorldHardware.pdb
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\TechWorldHardware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\TechWorldHardware.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\TechWorldHardware.AssemblyInfo.cs
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\TechWorldHardware.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\TechWorldHardware.sourcelink.json
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\TechWorldHardware.dll
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\refint\TechWorldHardware.dll
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\TechWorldHardware.pdb
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\TechWorldHardware.genruntimeconfig.cache
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\TechWorldHardware\TechWorldHardware\obj\Debug\net10.0\ref\TechWorldHardware.dll

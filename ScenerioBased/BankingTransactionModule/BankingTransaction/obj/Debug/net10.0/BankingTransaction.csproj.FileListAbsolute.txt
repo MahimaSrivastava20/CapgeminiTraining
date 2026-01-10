@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\BankingTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\BankingTransaction.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\BankingTransaction.AssemblyInfo.cs
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\BankingTransaction.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\BankingTransaction.sourcelink.json
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\bin\Debug\net10.0\BankingTransaction.exe
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\bin\Debug\net10.0\BankingTransaction.deps.json
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\bin\Debug\net10.0\BankingTransaction.runtimeconfig.json
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\bin\Debug\net10.0\BankingTransaction.dll
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\bin\Debug\net10.0\BankingTransaction.pdb
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\BankingTransaction.dll
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\refint\BankingTransaction.dll
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\BankingTransaction.pdb
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\BankingTransaction.genruntimeconfig.cache
+C:\Users\hp\Desktop\lpu.net\ScenerioBased\BankingTransactionModule\BankingTransaction\obj\Debug\net10.0\ref\BankingTransaction.dll
