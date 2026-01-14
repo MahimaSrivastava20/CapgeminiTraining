@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\bin\Debug\net10.0\AutonomousRobotSensor.exe
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\bin\Debug\net10.0\AutonomousRobotSensor.deps.json
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\bin\Debug\net10.0\AutonomousRobotSensor.runtimeconfig.json
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\bin\Debug\net10.0\AutonomousRobotSensor.dll
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\bin\Debug\net10.0\AutonomousRobotSensor.pdb
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\AutonomousRobotSensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\AutonomousRobotSensor.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\AutonomousRobotSensor.AssemblyInfo.cs
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\AutonomousRobotSensor.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\AutonomousRobotSensor.sourcelink.json
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\AutonomousRobotSensor.dll
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\refint\AutonomousRobotSensor.dll
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\AutonomousRobotSensor.pdb
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\AutonomousRobotSensor.genruntimeconfig.cache
+C:\Users\hp\Desktop\lpu.net\AutonomousRobotSensor\AutonomousRobotSensor\obj\Debug\net10.0\ref\AutonomousRobotSensor.dll
