@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\lpu.net\\MiniSocialMediaApplication\\MiniApp\\MiniApp.csproj": {}
+    "C:\\Users\\hp\\Desktop\\lpu.net\\Saturday Assignments\\17-01-2026\\MiniSocialMediaApplication\\MiniApp\\MiniApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\lpu.net\\MiniSocialMediaApplication\\MiniApp\\MiniApp.csproj": {
+    "C:\\Users\\hp\\Desktop\\lpu.net\\Saturday Assignments\\17-01-2026\\MiniSocialMediaApplication\\MiniApp\\MiniApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\lpu.net\\MiniSocialMediaApplication\\MiniApp\\MiniApp.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\lpu.net\\Saturday Assignments\\17-01-2026\\MiniSocialMediaApplication\\MiniApp\\MiniApp.csproj",
         "projectName": "MiniApp",
-        "projectPath": "C:\\Users\\hp\\Desktop\\lpu.net\\MiniSocialMediaApplication\\MiniApp\\MiniApp.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\lpu.net\\Saturday Assignments\\17-01-2026\\MiniSocialMediaApplication\\MiniApp\\MiniApp.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\lpu.net\\MiniSocialMediaApplication\\MiniApp\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\lpu.net\\Saturday Assignments\\17-01-2026\\MiniSocialMediaApplication\\MiniApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
