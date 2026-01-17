@@ -1,0 +1,35 @@
+[
+  {
+    "Username": "aryan_1",
+    "Email": "aryan788@gmail.com",
+    "Following": [],
+    "Posts": []
+  },
+  {
+    "Username": "ritik_20",
+    "Email": "ritikstar@gmail.com",
+    "Following": [],
+    "Posts": []
+  },
+  {
+    "Username": "mahimaaa_._",
+    "Email": "srimahima5@gmail.com",
+    "Following": [
+      "aryan_1"
+    ],
+    "Posts": [
+      {
+        "Content": "#hcdhcg #yefguef #hdgdhcdkhfdsjk",
+        "CreatedAt": "2026-01-15T10:11:26.7445458Z"
+      },
+      {
+        "Content": "hdhhewhih #gwdhewj #hujdiowdj #guwhdwuihd",
+        "CreatedAt": "2026-01-15T10:11:38.8525745Z"
+      },
+      {
+        "Content": "sfwhixosjxkns #guwhdiw #gwdhiwdj #plswkndskms",
+        "CreatedAt": "2026-01-15T10:11:50.6958465Z"
+      }
+    ]
+  }
+]

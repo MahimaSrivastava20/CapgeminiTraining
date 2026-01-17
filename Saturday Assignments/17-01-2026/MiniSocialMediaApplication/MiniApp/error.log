@@ -1,0 +1,7 @@
+
+[15-01-2026 15:38:52]
+username
+   at MiniSocialMedia.User..ctor(String username, String email) in C:\Users\hp\Desktop\lpu.net\MiniSocialMediaApplication\MiniApp\MiniSocialMedia.cs:line 70
+   at MiniSocialMedia.Program.Register() in C:\Users\hp\Desktop\lpu.net\MiniSocialMediaApplication\MiniApp\Program.cs:line 73
+   at MiniSocialMedia.Program.ShowLoginMenu() in C:\Users\hp\Desktop\lpu.net\MiniSocialMediaApplication\MiniApp\Program.cs:line 56
+   at MiniSocialMedia.Program.Main() in C:\Users\hp\Desktop\lpu.net\MiniSocialMediaApplication\MiniApp\Program.cs:line 29
